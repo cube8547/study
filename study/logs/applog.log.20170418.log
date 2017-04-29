@@ -1,0 +1,23 @@
+2017-04-18 19:48:13, 717 DEBUG [main] beginning.Day2    (    Day2.java:23)     - 알파벳을 입력해주세요
+2017-04-18 19:48:19, 133 DEBUG [main] beginning.Day2    (    Day2.java:34)     - 영문자가 아닙니다.
+2017-04-18 19:48:23, 059 DEBUG [main] beginning.Day2    (    Day2.java:23)     - 알파벳을 입력해주세요
+2017-04-18 19:48:27, 145 DEBUG [main] beginning.Day2    (    Day2.java:32)     - F
+2017-04-18 19:48:39, 213 DEBUG [main] beginning.Day2    (    Day2.java:23)     - 알파벳을 입력해주세요
+2017-04-18 20:15:07, 654 DEBUG [main] beginning.Day2    (    Day2.java:24)     - 알파벳을 입력하세요
+2017-04-18 20:15:10, 711 DEBUG [main] beginning.Day2    (    Day2.java:33)     - 영문자가 아닙니다.
+2017-04-18 20:15:12, 717 DEBUG [main] beginning.Day2    (    Day2.java:24)     - 알파벳을 입력하세요
+2017-04-18 20:15:18, 953 DEBUG [main] beginning.Day2    (    Day2.java:31)     - O
+2017-04-18 20:15:33, 570 DEBUG [main] beginning.Day2    (    Day2.java:24)     - 알파벳을 입력하세요
+2017-04-18 20:15:36, 245 DEBUG [main] beginning.Day2    (    Day2.java:31)     - G
+2017-04-18 20:15:45, 768 DEBUG [main] beginning.Day2    (    Day2.java:24)     - 알파벳을 입력하세요
+2017-04-18 20:15:46, 901 DEBUG [main] beginning.Day2    (    Day2.java:29)     - è
+2017-04-18 20:15:56, 000 DEBUG [main] beginning.Day2    (    Day2.java:24)     - 알파벳을 입력하세요
+2017-04-18 20:15:57, 672 DEBUG [main] beginning.Day2    (    Day2.java:29)     - ã
+2017-04-18 20:16:09, 319 DEBUG [main] beginning.Day2    (    Day2.java:24)     - 알파벳을 입력하세요
+2017-04-18 20:16:11, 374 DEBUG [main] beginning.Day2    (    Day2.java:29)     - f
+2017-04-18 20:16:18, 616 DEBUG [main] beginning.Day2    (    Day2.java:24)     - 알파벳을 입력하세요
+2017-04-18 20:16:25, 178 DEBUG [main] beginning.Day2    (    Day2.java:31)     - ￄ
+2017-04-18 20:16:29, 099 DEBUG [main] beginning.Day2    (    Day2.java:24)     - 알파벳을 입력하세요
+2017-04-18 20:16:31, 433 DEBUG [main] beginning.Day2    (    Day2.java:31)     - ￏ
+2017-04-18 20:17:30, 573 DEBUG [main] beginning.Day2    (    Day2.java:24)     - 알파벳을 입력하세요
+2017-04-18 20:17:36, 379 DEBUG [main] beginning.Day2    (    Day2.java:29)     - 2

@@ -1,0 +1,235 @@
+2017-04-16 14:17:23, 039 DEBUG [main] beginning.day1    (    day1.java:23)     - 일이삼
+2017-04-16 14:22:30, 723 DEBUG [main] beginning.day1    (    day1.java:17)     - 단을 입력하세요
+2017-04-16 14:22:33, 993 DEBUG [main] beginning.day1    (    day1.java:23)     - 2*1=2
+2017-04-16 14:22:33, 995 DEBUG [main] beginning.day1    (    day1.java:23)     - 2*2=4
+2017-04-16 14:22:33, 995 DEBUG [main] beginning.day1    (    day1.java:23)     - 2*3=6
+2017-04-16 14:22:33, 995 DEBUG [main] beginning.day1    (    day1.java:23)     - 2*4=8
+2017-04-16 14:22:33, 995 DEBUG [main] beginning.day1    (    day1.java:23)     - 2*5=10
+2017-04-16 14:22:33, 995 DEBUG [main] beginning.day1    (    day1.java:23)     - 2*6=12
+2017-04-16 14:22:33, 996 DEBUG [main] beginning.day1    (    day1.java:23)     - 2*7=14
+2017-04-16 14:22:33, 996 DEBUG [main] beginning.day1    (    day1.java:23)     - 2*8=16
+2017-04-16 14:22:33, 996 DEBUG [main] beginning.day1    (    day1.java:23)     - 2*9=18
+2017-04-16 15:14:34, 845 DEBUG [main] beginning.day1    (    day1.java:18)     - 단을 입력하세요
+2017-04-16 15:15:31, 663 DEBUG [main] beginning.day1    (    day1.java:24)     - 2*1=2
+2017-04-16 15:15:31, 673 DEBUG [main] beginning.day1    (    day1.java:24)     - 2*2=4
+2017-04-16 15:15:31, 673 DEBUG [main] beginning.day1    (    day1.java:24)     - 2*3=6
+2017-04-16 15:15:31, 673 DEBUG [main] beginning.day1    (    day1.java:24)     - 2*4=8
+2017-04-16 15:15:31, 673 DEBUG [main] beginning.day1    (    day1.java:24)     - 2*5=10
+2017-04-16 15:15:31, 674 DEBUG [main] beginning.day1    (    day1.java:24)     - 2*6=12
+2017-04-16 15:15:31, 674 DEBUG [main] beginning.day1    (    day1.java:24)     - 2*7=14
+2017-04-16 15:15:31, 676 DEBUG [main] beginning.day1    (    day1.java:24)     - 2*8=16
+2017-04-16 15:15:31, 676 DEBUG [main] beginning.day1    (    day1.java:24)     - 2*9=18
+2017-04-16 15:15:36, 652 DEBUG [main] beginning.day1    (    day1.java:18)     - 단을 입력하세요
+2017-04-16 15:15:44, 354 DEBUG [main] beginning.day1    (    day1.java:18)     - 단을 입력하세요
+2017-04-16 15:15:48, 971 DEBUG [main] beginning.day1    (    day1.java:18)     - 단을11 입력하세요
+2017-04-16 15:15:53, 331 DEBUG [main] beginning.day1    (    day1.java:18)     - 단을11 입력하세요
+2017-04-16 15:16:08, 537 DEBUG [main] beginning.day1    (    day1.java:18)     - 단을11 입력하세요
+2017-04-16 15:16:09, 821 DEBUG [main] beginning.day1    (    day1.java:18)     - 단을11 입력하세요
+2017-04-16 15:16:28, 164 DEBUG [main] beginning.day1    (    day1.java:18)     - 단을11 입력하세요
+2017-04-16 15:16:50, 609 DEBUG [main] beginning.day1    (    day1.java:18)     - 단을11 입력하세요
+2017-04-16 15:16:55, 378 DEBUG [main] beginning.day1    (    day1.java:18)     - 단을11 입력하세요
+2017-04-16 15:17:14, 059 DEBUG [main] beginning.day1    (    day1.java:18)     - 단을11 입력하세요
+2017-04-16 15:19:07, 102 DEBUG [main] beginning.day1    (    day1.java:18)     - 단을11 입력하세요
+2017-04-16 15:27:20, 525 DEBUG [main] json.JsonTest_02  (JsonTest_02.java:31)     - {data=가상의DB데이터0}
+2017-04-16 15:27:20, 529 DEBUG [main] json.JsonTest_02  (JsonTest_02.java:31)     - {data=가상의DB데이터1}
+2017-04-16 15:27:20, 529 DEBUG [main] json.JsonTest_02  (JsonTest_02.java:31)     - {data=가상의DB데이터2}
+2017-04-16 15:27:20, 529 DEBUG [main] json.JsonTest_02  (JsonTest_02.java:31)     - {data=가상의DB데이터3}
+2017-04-16 15:27:20, 529 DEBUG [main] json.JsonTest_02  (JsonTest_02.java:31)     - {data=가상의DB데이터4}
+2017-04-16 15:27:20, 530 DEBUG [main] json.JsonTest_02  (JsonTest_02.java:31)     - {data=가상의DB데이터5}
+2017-04-16 15:27:20, 530 DEBUG [main] json.JsonTest_02  (JsonTest_02.java:31)     - {data=가상의DB데이터6}
+2017-04-16 15:27:20, 530 DEBUG [main] json.JsonTest_02  (JsonTest_02.java:31)     - {data=가상의DB데이터7}
+2017-04-16 15:27:20, 532 DEBUG [main] json.JsonTest_02  (JsonTest_02.java:31)     - {data=가상의DB데이터8}
+2017-04-16 15:27:20, 532 DEBUG [main] json.JsonTest_02  (JsonTest_02.java:31)     - {data=가상의DB데이터9}
+2017-04-16 15:27:20, 533 DEBUG [main] json.JsonTest_02  (JsonTest_02.java:31)     - {data=가상의DB데이터10}
+2017-04-16 15:27:20, 533 DEBUG [main] json.JsonTest_02  (JsonTest_02.java:31)     - {data=가상의DB데이터11}
+2017-04-16 15:27:20, 533 DEBUG [main] json.JsonTest_02  (JsonTest_02.java:31)     - {data=가상의DB데이터12}
+2017-04-16 15:27:20, 534 DEBUG [main] json.JsonTest_02  (JsonTest_02.java:31)     - {data=가상의DB데이터13}
+2017-04-16 15:27:20, 534 DEBUG [main] json.JsonTest_02  (JsonTest_02.java:31)     - {data=가상의DB데이터14}
+2017-04-16 15:27:20, 534 DEBUG [main] json.JsonTest_02  (JsonTest_02.java:31)     - {data=가상의DB데이터15}
+2017-04-16 15:27:20, 536 DEBUG [main] json.JsonTest_02  (JsonTest_02.java:31)     - {data=가상의DB데이터16}
+2017-04-16 15:27:20, 537 DEBUG [main] json.JsonTest_02  (JsonTest_02.java:31)     - {data=가상의DB데이터17}
+2017-04-16 15:27:20, 537 DEBUG [main] json.JsonTest_02  (JsonTest_02.java:31)     - {data=가상의DB데이터18}
+2017-04-16 15:27:20, 537 DEBUG [main] json.JsonTest_02  (JsonTest_02.java:31)     - {data=가상의DB데이터19}
+2017-04-16 15:28:10, 176 DEBUG [main] json.JsonTest_02  (JsonTest_02.java:31)     - {data=가상의DB데이터0}
+2017-04-16 15:28:10, 180 DEBUG [main] json.JsonTest_02  (JsonTest_02.java:31)     - {data=가상의DB데이터1}
+2017-04-16 15:28:10, 180 DEBUG [main] json.JsonTest_02  (JsonTest_02.java:31)     - {data=가상의DB데이터2}
+2017-04-16 15:28:10, 181 DEBUG [main] json.JsonTest_02  (JsonTest_02.java:31)     - {data=가상의DB데이터3}
+2017-04-16 15:28:10, 181 DEBUG [main] json.JsonTest_02  (JsonTest_02.java:31)     - {data=가상의DB데이터4}
+2017-04-16 15:28:10, 181 DEBUG [main] json.JsonTest_02  (JsonTest_02.java:31)     - {data=가상의DB데이터5}
+2017-04-16 15:28:10, 182 DEBUG [main] json.JsonTest_02  (JsonTest_02.java:31)     - {data=가상의DB데이터6}
+2017-04-16 15:28:10, 182 DEBUG [main] json.JsonTest_02  (JsonTest_02.java:31)     - {data=가상의DB데이터7}
+2017-04-16 15:28:10, 185 DEBUG [main] json.JsonTest_02  (JsonTest_02.java:31)     - {data=가상의DB데이터8}
+2017-04-16 15:28:10, 185 DEBUG [main] json.JsonTest_02  (JsonTest_02.java:31)     - {data=가상의DB데이터9}
+2017-04-16 15:28:10, 185 DEBUG [main] json.JsonTest_02  (JsonTest_02.java:31)     - {data=가상의DB데이터10}
+2017-04-16 15:28:10, 186 DEBUG [main] json.JsonTest_02  (JsonTest_02.java:31)     - {data=가상의DB데이터11}
+2017-04-16 15:28:10, 186 DEBUG [main] json.JsonTest_02  (JsonTest_02.java:31)     - {data=가상의DB데이터12}
+2017-04-16 15:28:10, 186 DEBUG [main] json.JsonTest_02  (JsonTest_02.java:31)     - {data=가상의DB데이터13}
+2017-04-16 15:28:10, 186 DEBUG [main] json.JsonTest_02  (JsonTest_02.java:31)     - {data=가상의DB데이터14}
+2017-04-16 15:28:10, 186 DEBUG [main] json.JsonTest_02  (JsonTest_02.java:31)     - {data=가상의DB데이터15}
+2017-04-16 15:28:10, 188 DEBUG [main] json.JsonTest_02  (JsonTest_02.java:31)     - {data=가상의DB데이터16}
+2017-04-16 15:28:10, 189 DEBUG [main] json.JsonTest_02  (JsonTest_02.java:31)     - {data=가상의DB데이터17}
+2017-04-16 15:28:10, 189 DEBUG [main] json.JsonTest_02  (JsonTest_02.java:31)     - {data=가상의DB데이터18}
+2017-04-16 15:28:10, 189 DEBUG [main] json.JsonTest_02  (JsonTest_02.java:31)     - {data=가상의DB데이터19}
+2017-04-16 15:28:10, 191 DEBUG [main] json.JsonTest_02  (JsonTest_02.java:46)     - data가상의DB데이터0
+2017-04-16 15:28:10, 191 DEBUG [main] json.JsonTest_02  (JsonTest_02.java:46)     - data가상의DB데이터1
+2017-04-16 15:28:10, 191 DEBUG [main] json.JsonTest_02  (JsonTest_02.java:46)     - data가상의DB데이터2
+2017-04-16 15:28:10, 192 DEBUG [main] json.JsonTest_02  (JsonTest_02.java:46)     - data가상의DB데이터3
+2017-04-16 15:28:10, 192 DEBUG [main] json.JsonTest_02  (JsonTest_02.java:46)     - data가상의DB데이터4
+2017-04-16 15:28:10, 192 DEBUG [main] json.JsonTest_02  (JsonTest_02.java:46)     - data가상의DB데이터5
+2017-04-16 15:28:10, 193 DEBUG [main] json.JsonTest_02  (JsonTest_02.java:46)     - data가상의DB데이터6
+2017-04-16 15:28:10, 193 DEBUG [main] json.JsonTest_02  (JsonTest_02.java:46)     - data가상의DB데이터7
+2017-04-16 15:28:10, 193 DEBUG [main] json.JsonTest_02  (JsonTest_02.java:46)     - data가상의DB데이터8
+2017-04-16 15:28:10, 193 DEBUG [main] json.JsonTest_02  (JsonTest_02.java:46)     - data가상의DB데이터9
+2017-04-16 15:28:10, 194 DEBUG [main] json.JsonTest_02  (JsonTest_02.java:46)     - data가상의DB데이터10
+2017-04-16 15:28:10, 194 DEBUG [main] json.JsonTest_02  (JsonTest_02.java:46)     - data가상의DB데이터11
+2017-04-16 15:28:10, 194 DEBUG [main] json.JsonTest_02  (JsonTest_02.java:46)     - data가상의DB데이터12
+2017-04-16 15:28:10, 194 DEBUG [main] json.JsonTest_02  (JsonTest_02.java:46)     - data가상의DB데이터13
+2017-04-16 15:28:10, 195 DEBUG [main] json.JsonTest_02  (JsonTest_02.java:46)     - data가상의DB데이터14
+2017-04-16 15:28:10, 195 DEBUG [main] json.JsonTest_02  (JsonTest_02.java:46)     - data가상의DB데이터15
+2017-04-16 15:28:10, 195 DEBUG [main] json.JsonTest_02  (JsonTest_02.java:46)     - data가상의DB데이터16
+2017-04-16 15:28:10, 195 DEBUG [main] json.JsonTest_02  (JsonTest_02.java:46)     - data가상의DB데이터17
+2017-04-16 15:28:10, 195 DEBUG [main] json.JsonTest_02  (JsonTest_02.java:46)     - data가상의DB데이터18
+2017-04-16 15:28:10, 196 DEBUG [main] json.JsonTest_02  (JsonTest_02.java:46)     - data가상의DB데이터19
+2017-04-16 15:28:50, 116 DEBUG [main] json.JsonTest_02  (JsonTest_02.java:31)     - {data=가상의DB데이터0}
+2017-04-16 15:28:50, 120 DEBUG [main] json.JsonTest_02  (JsonTest_02.java:31)     - {data=가상의DB데이터1}
+2017-04-16 15:28:50, 120 DEBUG [main] json.JsonTest_02  (JsonTest_02.java:31)     - {data=가상의DB데이터2}
+2017-04-16 15:28:50, 121 DEBUG [main] json.JsonTest_02  (JsonTest_02.java:31)     - {data=가상의DB데이터3}
+2017-04-16 15:28:50, 121 DEBUG [main] json.JsonTest_02  (JsonTest_02.java:31)     - {data=가상의DB데이터4}
+2017-04-16 15:28:50, 121 DEBUG [main] json.JsonTest_02  (JsonTest_02.java:31)     - {data=가상의DB데이터5}
+2017-04-16 15:28:50, 122 DEBUG [main] json.JsonTest_02  (JsonTest_02.java:31)     - {data=가상의DB데이터6}
+2017-04-16 15:28:50, 122 DEBUG [main] json.JsonTest_02  (JsonTest_02.java:31)     - {data=가상의DB데이터7}
+2017-04-16 15:28:50, 124 DEBUG [main] json.JsonTest_02  (JsonTest_02.java:31)     - {data=가상의DB데이터8}
+2017-04-16 15:28:50, 124 DEBUG [main] json.JsonTest_02  (JsonTest_02.java:31)     - {data=가상의DB데이터9}
+2017-04-16 15:28:50, 125 DEBUG [main] json.JsonTest_02  (JsonTest_02.java:31)     - {data=가상의DB데이터10}
+2017-04-16 15:28:50, 125 DEBUG [main] json.JsonTest_02  (JsonTest_02.java:31)     - {data=가상의DB데이터11}
+2017-04-16 15:28:50, 125 DEBUG [main] json.JsonTest_02  (JsonTest_02.java:31)     - {data=가상의DB데이터12}
+2017-04-16 15:28:50, 125 DEBUG [main] json.JsonTest_02  (JsonTest_02.java:31)     - {data=가상의DB데이터13}
+2017-04-16 15:28:50, 125 DEBUG [main] json.JsonTest_02  (JsonTest_02.java:31)     - {data=가상의DB데이터14}
+2017-04-16 15:28:50, 126 DEBUG [main] json.JsonTest_02  (JsonTest_02.java:31)     - {data=가상의DB데이터15}
+2017-04-16 15:28:50, 127 DEBUG [main] json.JsonTest_02  (JsonTest_02.java:31)     - {data=가상의DB데이터16}
+2017-04-16 15:28:50, 128 DEBUG [main] json.JsonTest_02  (JsonTest_02.java:31)     - {data=가상의DB데이터17}
+2017-04-16 15:28:50, 128 DEBUG [main] json.JsonTest_02  (JsonTest_02.java:31)     - {data=가상의DB데이터18}
+2017-04-16 15:28:50, 128 DEBUG [main] json.JsonTest_02  (JsonTest_02.java:31)     - {data=가상의DB데이터19}
+2017-04-16 15:28:50, 129 DEBUG [main] json.JsonTest_02  (JsonTest_02.java:46)     - data가상의DB데이터0
+2017-04-16 15:28:50, 130 DEBUG [main] json.JsonTest_02  (JsonTest_02.java:46)     - data가상의DB데이터1
+2017-04-16 15:28:50, 130 DEBUG [main] json.JsonTest_02  (JsonTest_02.java:46)     - data가상의DB데이터2
+2017-04-16 15:28:50, 130 DEBUG [main] json.JsonTest_02  (JsonTest_02.java:46)     - data가상의DB데이터3
+2017-04-16 15:28:50, 131 DEBUG [main] json.JsonTest_02  (JsonTest_02.java:46)     - data가상의DB데이터4
+2017-04-16 15:28:50, 131 DEBUG [main] json.JsonTest_02  (JsonTest_02.java:46)     - data가상의DB데이터5
+2017-04-16 15:28:50, 131 DEBUG [main] json.JsonTest_02  (JsonTest_02.java:46)     - data가상의DB데이터6
+2017-04-16 15:28:50, 131 DEBUG [main] json.JsonTest_02  (JsonTest_02.java:46)     - data가상의DB데이터7
+2017-04-16 15:28:50, 132 DEBUG [main] json.JsonTest_02  (JsonTest_02.java:46)     - data가상의DB데이터8
+2017-04-16 15:28:50, 132 DEBUG [main] json.JsonTest_02  (JsonTest_02.java:46)     - data가상의DB데이터9
+2017-04-16 15:28:50, 132 DEBUG [main] json.JsonTest_02  (JsonTest_02.java:46)     - data가상의DB데이터10
+2017-04-16 15:28:50, 132 DEBUG [main] json.JsonTest_02  (JsonTest_02.java:46)     - data가상의DB데이터11
+2017-04-16 15:28:50, 132 DEBUG [main] json.JsonTest_02  (JsonTest_02.java:46)     - data가상의DB데이터12
+2017-04-16 15:28:50, 133 DEBUG [main] json.JsonTest_02  (JsonTest_02.java:46)     - data가상의DB데이터13
+2017-04-16 15:28:50, 133 DEBUG [main] json.JsonTest_02  (JsonTest_02.java:46)     - data가상의DB데이터14
+2017-04-16 15:28:50, 133 DEBUG [main] json.JsonTest_02  (JsonTest_02.java:46)     - data가상의DB데이터15
+2017-04-16 15:28:50, 133 DEBUG [main] json.JsonTest_02  (JsonTest_02.java:46)     - data가상의DB데이터16
+2017-04-16 15:28:50, 133 DEBUG [main] json.JsonTest_02  (JsonTest_02.java:46)     - data가상의DB데이터17
+2017-04-16 15:28:50, 134 DEBUG [main] json.JsonTest_02  (JsonTest_02.java:46)     - data가상의DB데이터18
+2017-04-16 15:28:50, 134 DEBUG [main] json.JsonTest_02  (JsonTest_02.java:46)     - data가상의DB데이터19
+2017-04-16 15:33:53, 176 DEBUG [main] json.JsonTest_02  (JsonTest_03.java:33)     - {data=가상의DB데이터0}
+2017-04-16 15:33:53, 180 DEBUG [main] json.JsonTest_02  (JsonTest_03.java:33)     - {data=가상의DB데이터1}
+2017-04-16 15:33:53, 180 DEBUG [main] json.JsonTest_02  (JsonTest_03.java:33)     - {data=가상의DB데이터2}
+2017-04-16 15:33:53, 181 DEBUG [main] json.JsonTest_02  (JsonTest_03.java:33)     - {data=가상의DB데이터3}
+2017-04-16 15:33:53, 181 DEBUG [main] json.JsonTest_02  (JsonTest_03.java:33)     - {data=가상의DB데이터4}
+2017-04-16 15:33:53, 181 DEBUG [main] json.JsonTest_02  (JsonTest_03.java:33)     - {data=가상의DB데이터5}
+2017-04-16 15:33:53, 181 DEBUG [main] json.JsonTest_02  (JsonTest_03.java:33)     - {data=가상의DB데이터6}
+2017-04-16 15:33:53, 182 DEBUG [main] json.JsonTest_02  (JsonTest_03.java:33)     - {data=가상의DB데이터7}
+2017-04-16 15:33:53, 183 DEBUG [main] json.JsonTest_02  (JsonTest_03.java:33)     - {data=가상의DB데이터8}
+2017-04-16 15:33:53, 184 DEBUG [main] json.JsonTest_02  (JsonTest_03.java:33)     - {data=가상의DB데이터9}
+2017-04-16 15:33:53, 184 DEBUG [main] json.JsonTest_02  (JsonTest_03.java:33)     - {data=가상의DB데이터10}
+2017-04-16 15:33:53, 184 DEBUG [main] json.JsonTest_02  (JsonTest_03.java:33)     - {data=가상의DB데이터11}
+2017-04-16 15:33:53, 184 DEBUG [main] json.JsonTest_02  (JsonTest_03.java:33)     - {data=가상의DB데이터12}
+2017-04-16 15:33:53, 184 DEBUG [main] json.JsonTest_02  (JsonTest_03.java:33)     - {data=가상의DB데이터13}
+2017-04-16 15:33:53, 185 DEBUG [main] json.JsonTest_02  (JsonTest_03.java:33)     - {data=가상의DB데이터14}
+2017-04-16 15:33:53, 185 DEBUG [main] json.JsonTest_02  (JsonTest_03.java:33)     - {data=가상의DB데이터15}
+2017-04-16 15:33:53, 187 DEBUG [main] json.JsonTest_02  (JsonTest_03.java:33)     - {data=가상의DB데이터16}
+2017-04-16 15:33:53, 188 DEBUG [main] json.JsonTest_02  (JsonTest_03.java:33)     - {data=가상의DB데이터17}
+2017-04-16 15:33:53, 188 DEBUG [main] json.JsonTest_02  (JsonTest_03.java:33)     - {data=가상의DB데이터18}
+2017-04-16 15:33:53, 188 DEBUG [main] json.JsonTest_02  (JsonTest_03.java:33)     - {data=가상의DB데이터19}
+2017-04-16 15:34:21, 107 DEBUG [main] json.JsonTest_02  (JsonTest_03.java:33)     - {data=가상의DB데이터0}
+2017-04-16 15:34:21, 110 DEBUG [main] json.JsonTest_02  (JsonTest_03.java:33)     - {data=가상의DB데이터1}
+2017-04-16 15:34:21, 111 DEBUG [main] json.JsonTest_02  (JsonTest_03.java:33)     - {data=가상의DB데이터2}
+2017-04-16 15:34:21, 111 DEBUG [main] json.JsonTest_02  (JsonTest_03.java:33)     - {data=가상의DB데이터3}
+2017-04-16 15:34:21, 111 DEBUG [main] json.JsonTest_02  (JsonTest_03.java:33)     - {data=가상의DB데이터4}
+2017-04-16 15:34:21, 111 DEBUG [main] json.JsonTest_02  (JsonTest_03.java:33)     - {data=가상의DB데이터5}
+2017-04-16 15:34:21, 112 DEBUG [main] json.JsonTest_02  (JsonTest_03.java:33)     - {data=가상의DB데이터6}
+2017-04-16 15:34:21, 112 DEBUG [main] json.JsonTest_02  (JsonTest_03.java:33)     - {data=가상의DB데이터7}
+2017-04-16 15:34:21, 114 DEBUG [main] json.JsonTest_02  (JsonTest_03.java:33)     - {data=가상의DB데이터8}
+2017-04-16 15:34:21, 114 DEBUG [main] json.JsonTest_02  (JsonTest_03.java:33)     - {data=가상의DB데이터9}
+2017-04-16 15:34:21, 114 DEBUG [main] json.JsonTest_02  (JsonTest_03.java:33)     - {data=가상의DB데이터10}
+2017-04-16 15:34:21, 114 DEBUG [main] json.JsonTest_02  (JsonTest_03.java:33)     - {data=가상의DB데이터11}
+2017-04-16 15:34:21, 114 DEBUG [main] json.JsonTest_02  (JsonTest_03.java:33)     - {data=가상의DB데이터12}
+2017-04-16 15:34:21, 115 DEBUG [main] json.JsonTest_02  (JsonTest_03.java:33)     - {data=가상의DB데이터13}
+2017-04-16 15:34:21, 115 DEBUG [main] json.JsonTest_02  (JsonTest_03.java:33)     - {data=가상의DB데이터14}
+2017-04-16 15:34:21, 115 DEBUG [main] json.JsonTest_02  (JsonTest_03.java:33)     - {data=가상의DB데이터15}
+2017-04-16 15:34:21, 117 DEBUG [main] json.JsonTest_02  (JsonTest_03.java:33)     - {data=가상의DB데이터16}
+2017-04-16 15:34:21, 117 DEBUG [main] json.JsonTest_02  (JsonTest_03.java:33)     - {data=가상의DB데이터17}
+2017-04-16 15:34:21, 117 DEBUG [main] json.JsonTest_02  (JsonTest_03.java:33)     - {data=가상의DB데이터18}
+2017-04-16 15:34:21, 117 DEBUG [main] json.JsonTest_02  (JsonTest_03.java:33)     - {data=가상의DB데이터19}
+2017-04-16 15:34:21, 118 DEBUG [main] json.JsonTest_02  (JsonTest_03.java:48)     - data가상의DB데이터0
+2017-04-16 15:34:21, 119 DEBUG [main] json.JsonTest_02  (JsonTest_03.java:48)     - data가상의DB데이터1
+2017-04-16 15:34:21, 119 DEBUG [main] json.JsonTest_02  (JsonTest_03.java:48)     - data가상의DB데이터2
+2017-04-16 15:34:21, 119 DEBUG [main] json.JsonTest_02  (JsonTest_03.java:48)     - data가상의DB데이터3
+2017-04-16 15:34:21, 119 DEBUG [main] json.JsonTest_02  (JsonTest_03.java:48)     - data가상의DB데이터4
+2017-04-16 15:34:21, 120 DEBUG [main] json.JsonTest_02  (JsonTest_03.java:48)     - data가상의DB데이터5
+2017-04-16 15:34:21, 120 DEBUG [main] json.JsonTest_02  (JsonTest_03.java:48)     - data가상의DB데이터6
+2017-04-16 15:34:21, 120 DEBUG [main] json.JsonTest_02  (JsonTest_03.java:48)     - data가상의DB데이터7
+2017-04-16 15:34:21, 120 DEBUG [main] json.JsonTest_02  (JsonTest_03.java:48)     - data가상의DB데이터8
+2017-04-16 15:34:21, 120 DEBUG [main] json.JsonTest_02  (JsonTest_03.java:48)     - data가상의DB데이터9
+2017-04-16 15:34:21, 120 DEBUG [main] json.JsonTest_02  (JsonTest_03.java:48)     - data가상의DB데이터10
+2017-04-16 15:34:21, 121 DEBUG [main] json.JsonTest_02  (JsonTest_03.java:48)     - data가상의DB데이터11
+2017-04-16 15:34:21, 121 DEBUG [main] json.JsonTest_02  (JsonTest_03.java:48)     - data가상의DB데이터12
+2017-04-16 15:34:21, 121 DEBUG [main] json.JsonTest_02  (JsonTest_03.java:48)     - data가상의DB데이터13
+2017-04-16 15:34:21, 121 DEBUG [main] json.JsonTest_02  (JsonTest_03.java:48)     - data가상의DB데이터14
+2017-04-16 15:34:21, 122 DEBUG [main] json.JsonTest_02  (JsonTest_03.java:48)     - data가상의DB데이터15
+2017-04-16 15:34:21, 122 DEBUG [main] json.JsonTest_02  (JsonTest_03.java:48)     - data가상의DB데이터16
+2017-04-16 15:34:21, 123 DEBUG [main] json.JsonTest_02  (JsonTest_03.java:48)     - data가상의DB데이터17
+2017-04-16 15:34:21, 123 DEBUG [main] json.JsonTest_02  (JsonTest_03.java:48)     - data가상의DB데이터18
+2017-04-16 15:34:21, 123 DEBUG [main] json.JsonTest_02  (JsonTest_03.java:48)     - data가상의DB데이터19
+2017-04-16 15:43:16, 385 DEBUG [main] json.JsonTest_01  (JsonTest_01.java:36)     - value2
+2017-04-16 16:19:22, 735 DEBUG [main] beginning.day1    (    day1.java:28)     - 단을 입력하세요
+2017-04-16 16:31:29, 434 DEBUG [main] beginning.day1    (    day1.java:27)     - 단을 입력하세요
+2017-04-16 16:31:32, 470 DEBUG [main] beginning.day1    (    day1.java:52)     - Create JSON Object : {"dan":"dan","i":"i"}
+2017-04-16 16:31:59, 730 DEBUG [main] beginning.day1    (    day1.java:27)     - 단을 입력하세요
+2017-04-16 16:32:01, 048 DEBUG [main] beginning.day1    (    day1.java:52)     - Create JSON Object : {"dan":2}
+2017-04-16 16:32:29, 442 DEBUG [main] beginning.day1    (    day1.java:27)     - 단을 입력하세요
+2017-04-16 16:32:31, 470 DEBUG [main] beginning.day1    (    day1.java:52)     - Create JSON Object : {"dan":3}
+2017-04-16 16:32:53, 395 DEBUG [main] beginning.day1    (    day1.java:27)     - 단을 입력하세요
+2017-04-16 16:33:34, 427 DEBUG [main] beginning.day1    (    day1.java:27)     - 단을 입력하세요
+2017-04-16 16:33:36, 949 DEBUG [main] beginning.day1    (    day1.java:44)     - Create JSON Object : {"dan":2}
+2017-04-16 16:34:31, 038 DEBUG [main] beginning.day1    (    day1.java:27)     - 단을 입력하세요
+2017-04-16 16:34:33, 670 DEBUG [main] beginning.day1    (    day1.java:44)     - Create JSON Object : {"단수":2}
+2017-04-16 16:35:20, 911 DEBUG [main] beginning.day1    (    day1.java:27)     - 단을 입력하세요
+2017-04-16 16:35:22, 651 DEBUG [main] beginning.day1    (    day1.java:44)     - {"단수":4}
+2017-04-16 16:37:02, 484 DEBUG [main] beginning.day1    (    day1.java:27)     - 단을 입력하세요
+2017-04-16 16:37:04, 980 DEBUG [main] beginning.day1    (    day1.java:38)     - {"단수":4}
+2017-04-16 16:37:50, 607 DEBUG [main] beginning.day1    (    day1.java:27)     - 단을 입력하세요
+2017-04-16 16:37:52, 708 DEBUG [main] beginning.day1    (    day1.java:39)     - {"2*1=":2}
+2017-04-16 16:38:01, 672 DEBUG [main] beginning.day1    (    day1.java:27)     - 단을 입력하세요
+2017-04-16 16:38:04, 915 DEBUG [main] beginning.day1    (    day1.java:39)     - {"2*1":2}
+2017-04-16 16:39:13, 050 DEBUG [main] beginning.day1    (    day1.java:27)     - 단을 입력하세요
+2017-04-16 16:39:16, 251 DEBUG [main] beginning.day1    (    day1.java:39)     - {"단":27}
+2017-04-16 16:39:52, 989 DEBUG [main] beginning.day1    (    day1.java:27)     - 단을 입력하세요
+2017-04-16 16:39:55, 700 DEBUG [main] beginning.day1    (    day1.java:39)     - {"단":4}
+2017-04-16 16:40:29, 666 DEBUG [main] beginning.day1    (    day1.java:27)     - 단을 입력하세요
+2017-04-16 16:40:31, 259 DEBUG [main] beginning.day1    (    day1.java:46)     - {"단":45}
+2017-04-16 16:41:18, 393 DEBUG [main] beginning.day1    (    day1.java:27)     - 단을 입력하세요
+2017-04-16 16:41:20, 859 DEBUG [main] beginning.day1    (    day1.java:46)     - {"*8":24,"*9":27,"*6":18,"*7":21,"*4":12,"*5":15,"*2":6,"*3":9,"*1":3}
+2017-04-16 16:42:27, 369 DEBUG [main] beginning.day1    (    day1.java:27)     - 단을 입력하세요
+2017-04-16 16:42:29, 035 DEBUG [main] beginning.day1    (    day1.java:46)     - {"5*5":25,"5*6":30,"5*7":35,"5*8":40,"5*9":45,"5*4":20,"5*3":15,"5*2":10,"5*1":5}
+2017-04-16 17:02:58, 890 DEBUG [main] beginning.day1    (    day1.java:25)     - 단을 입력하세요
+2017-04-16 17:03:00, 576 DEBUG [main] beginning.day1    (    day1.java:47)     - {"5*5":25,"5*6":30,"5*7":35,"5*8":40,"5*9":45,"5*4":20,"5*3":15,"5*2":10,"5*1":5}
+2017-04-16 17:03:20, 250 DEBUG [main] beginning.day1    (    day1.java:25)     - 단을 입력하세요
+2017-04-16 17:03:21, 810 DEBUG [main] beginning.day1    (    day1.java:53)     - {"5*5":25,"5*6":30,"5*7":35,"5*8":40,"5*9":45,"5*4":20,"5*3":15,"5*2":10,"5*1":5}
+2017-04-16 17:07:58, 126 DEBUG [main] beginning.day1    (    day1.java:25)     - 단을 입력하세요
+2017-04-16 17:07:59, 835 DEBUG [main] beginning.day1    (    day1.java:48)     - {"5*5":25,"5*6":30,"5*7":35,"5*8":40,"5*9":45,"5*4":20,"5*3":15,"5*2":10,"5*1":5}
+2017-04-16 17:09:38, 572 DEBUG [main] beginning.day1    (    day1.java:25)     - 단을 입력하세요
+2017-04-16 17:09:40, 229 DEBUG [main] beginning.day1    (    day1.java:56)     - [{"5*5":25,"5*6":30,"5*7":35,"5*8":40,"5*9":45,"5*4":20,"5*3":15,"5*2":10,"5*1":5}]
+2017-04-16 17:11:18, 575 DEBUG [main] beginning.day1    (    day1.java:25)     - 단을 입력하세요
+2017-04-16 17:11:20, 867 DEBUG [main] beginning.day1    (    day1.java:56)     - {"9*9":81,"9*8":72,"9*7":63,"9*6":54,"9*5":45,"9*4":36,"9*3":27,"9*2":18,"9*1":9}
+2017-04-16 17:11:32, 606 DEBUG [main] beginning.day1    (    day1.java:25)     - 단을 입력하세요
+2017-04-16 17:11:34, 331 DEBUG [main] beginning.day1    (    day1.java:56)     - {"2*2":4,"2*3":6,"2*1":2,"2*6":12,"2*7":14,"2*8":16,"2*4":8,"2*9":18,"2*5":10}
