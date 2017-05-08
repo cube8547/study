@@ -25,7 +25,7 @@ public class Day1 {
 		
 		//JSONObject jsonObject = (JSONObject) JSONParser.parse();
 		Scanner scan = new Scanner(System.in); // 문자 입력 준비 
-		logger.debug("단을 입력하세요");
+		//logger.debug("단을 입력하세요");
 		
 		int dan = scan.nextInt(); // 키보드 문자 입력
 		

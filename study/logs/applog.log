@@ -1,57 +1,44 @@
-2017-04-20 11:33:54, 568 DEBUG [main] beginning.Day4    (    Day4.java:18)     - 서로 다른 두 정수를 입력하시오
-2017-04-20 15:07:28, 600 DEBUG [main] beginning.Day4    (    Day4.java:18)     - 서로 다른 두 정수를 입력하시오
-2017-04-20 15:07:35, 723 DEBUG [main] beginning.Day4    (    Day4.java:37)     - 최대 공약 수는2
-2017-04-20 15:07:45, 601 DEBUG [main] beginning.Day4    (    Day4.java:18)     - 서로 다른 두 정수를 입력하시오
-2017-04-20 15:07:49, 421 DEBUG [main] beginning.Day4    (    Day4.java:37)     - 최대 공약 수는10
-2017-04-20 15:07:54, 742 DEBUG [main] beginning.Day4    (    Day4.java:18)     - 서로 다른 두 정수를 입력하시오
-2017-04-20 15:08:00, 647 DEBUG [main] beginning.Day4    (    Day4.java:37)     - 최대 공약 수는3
-2017-04-20 15:08:04, 626 DEBUG [main] beginning.Day4    (    Day4.java:18)     - 서로 다른 두 정수를 입력하시오
-2017-04-20 15:08:07, 752 DEBUG [main] beginning.Day4    (    Day4.java:37)     - 최대 공약 수는10
-2017-04-20 15:08:11, 770 DEBUG [main] beginning.Day4    (    Day4.java:18)     - 서로 다른 두 정수를 입력하시오
-2017-04-20 19:08:34, 360 DEBUG [main] beginning.Day5    (    Day5.java:18)     - 0보다 큰 정수를 입력하시오
-2017-04-20 19:08:37, 415 DEBUG [main] beginning.Day5    (    Day5.java:41)     - 0
-2017-04-20 19:08:37, 415 DEBUG [main] beginning.Day5    (    Day5.java:43)     - 
-2017-04-20 19:08:37, 417 DEBUG [main] beginning.Day5    (    Day5.java:44)     - 1의 갯수는 : 2
-2017-04-20 19:09:26, 076 DEBUG [main] beginning.Day5    (    Day5.java:18)     - 0보다 큰 정수를 입력하시오
-2017-04-20 19:09:29, 330 DEBUG [main] beginning.Day5    (    Day5.java:41)     - 0
-2017-04-20 19:09:29, 343 DEBUG [main] beginning.Day5    (    Day5.java:43)     - 
-2017-04-20 19:09:29, 343 DEBUG [main] beginning.Day5    (    Day5.java:44)     - 1의 갯수는 : 2
-2017-04-20 19:09:39, 710 DEBUG [main] beginning.Day5    (    Day5.java:18)     - 0보다 큰 정수를 입력하시오
-2017-04-20 19:09:45, 803 DEBUG [main] beginning.Day5    (    Day5.java:41)     - 0
-2017-04-20 19:09:45, 807 DEBUG [main] beginning.Day5    (    Day5.java:43)     - 
-2017-04-20 19:09:45, 807 DEBUG [main] beginning.Day5    (    Day5.java:44)     - 1의 갯수는 : 5
-2017-04-20 19:09:55, 246 DEBUG [main] beginning.Day5    (    Day5.java:18)     - 0보다 큰 정수를 입력하시오
-2017-04-20 19:09:57, 595 DEBUG [main] beginning.Day5    (    Day5.java:41)     - 1
-2017-04-20 19:09:57, 607 DEBUG [main] beginning.Day5    (    Day5.java:43)     - 
-2017-04-20 19:09:57, 607 DEBUG [main] beginning.Day5    (    Day5.java:44)     - 1의 갯수는 : 1
-2017-04-20 19:10:00, 580 DEBUG [main] beginning.Day5    (    Day5.java:18)     - 0보다 큰 정수를 입력하시오
-2017-04-20 19:10:03, 984 DEBUG [main] beginning.Day5    (    Day5.java:41)     - 1
-2017-04-20 19:10:03, 999 DEBUG [main] beginning.Day5    (    Day5.java:43)     - 
-2017-04-20 19:10:03, 999 DEBUG [main] beginning.Day5    (    Day5.java:44)     - 1의 갯수는 : 6
-2017-04-20 19:10:57, 520 DEBUG [main] beginning.Day5    (    Day5.java:20)     - 0보다 큰 정수를 입력하시오
-2017-04-20 19:10:59, 221 DEBUG [main] beginning.Day5    (    Day5.java:43)     - 0
-2017-04-20 19:10:59, 230 DEBUG [main] beginning.Day5    (    Day5.java:43)     - 0
-2017-04-20 19:10:59, 230 DEBUG [main] beginning.Day5    (    Day5.java:45)     - 
-2017-04-20 19:10:59, 232 DEBUG [main] beginning.Day5    (    Day5.java:46)     - 1의 갯수는 : 2
-2017-04-20 19:15:02, 803 DEBUG [main] beginning.Day5    (    Day5.java:20)     - 0보다 큰 정수를 입력하시오
-2017-04-20 19:15:05, 172 DEBUG [main] beginning.Day5    (    Day5.java:43)     - 0
-2017-04-20 19:15:05, 183 DEBUG [main] beginning.Day5    (    Day5.java:43)     - 0
-2017-04-20 19:15:05, 183 DEBUG [main] beginning.Day5    (    Day5.java:45)     - 
-2017-04-20 19:15:05, 183 DEBUG [main] beginning.Day5    (    Day5.java:46)     - 1의 갯수는 : 2
-2017-04-20 19:17:20, 571 DEBUG [main] beginning.Day5    (    Day5.java:17)     - 0보다 큰 정수를 입력하시오
-2017-04-20 19:17:22, 038 DEBUG [main] beginning.Day5    (    Day5.java:43)     - 0
-2017-04-20 19:17:22, 038 DEBUG [main] beginning.Day5    (    Day5.java:43)     - 0
-2017-04-20 19:17:22, 038 DEBUG [main] beginning.Day5    (    Day5.java:45)     - 
-2017-04-20 19:17:22, 039 DEBUG [main] beginning.Day5    (    Day5.java:46)     - 1의 갯수는 : 2
-2017-04-20 19:18:47, 469 DEBUG [main] beginning.Day5    (    Day5.java:18)     - 0보다 큰 임의의 정수 입력하세요.
-2017-04-20 19:18:49, 003 DEBUG [main] beginning.Day5    (    Day5.java:47)     - 
-2017-04-20 19:18:49, 013 DEBUG [main] beginning.Day5    (    Day5.java:48)     - 1의 갯수는 : 2
-2017-04-20 19:19:50, 466 DEBUG [main] beginning.Day5    (    Day5.java:18)     - 0보다 큰 임의의 정수 입력하세요.
-2017-04-20 19:19:52, 764 DEBUG [main] beginning.Day5    (    Day5.java:47)     - 
-2017-04-20 19:19:52, 766 DEBUG [main] beginning.Day5    (    Day5.java:48)     - 1의 갯수는 : 2
-2017-04-20 19:20:10, 953 DEBUG [main] beginning.Day5    (    Day5.java:18)     - 0보다 큰 임의의 정수 입력하세요.
-2017-04-20 20:33:45, 667 DEBUG [main] beginning.Day6    (    Day6.java:20)     - 1~99사이의 정수를 입력하세요(종료는 ctrl+z)
-2017-04-20 20:33:49, 422 DEBUG [main] beginning.Day6    (    Day6.java:37)     - 짝
-2017-04-20 20:33:49, 423 DEBUG [main] beginning.Day6    (    Day6.java:20)     - 1~99사이의 정수를 입력하세요(종료는 ctrl+z)
-2017-04-20 20:33:53, 489 DEBUG [main] beginning.Day6    (    Day6.java:40)     - 짝짝
-2017-04-20 20:33:53, 496 DEBUG [main] beginning.Day6    (    Day6.java:20)     - 1~99사이의 정수를 입력하세요(종료는 ctrl+z)
+2017-05-08 09:59:54, 166 DEBUG [main] json.JsonTest_01  (JsonTest_01.java:32)     - value2
+2017-05-08 10:00:22, 300 DEBUG [main] json.JsonTest_01  (JsonTest_01.java:32)     - value1
+2017-05-08 10:00:23, 632 DEBUG [main] json.JsonTest_01  (JsonTest_01.java:32)     - value1
+2017-05-08 10:00:33, 740 DEBUG [main] json.JsonTest_01  (JsonTest_01.java:32)     - value2
+2017-05-08 11:44:07, 267 DEBUG [main] hashmap.Day1      (    Day1.java:21)     - {1=감자, 2=고구마, 3=마늘}
+2017-05-08 11:45:40, 000 DEBUG [main] hashmap.Day1      (    Day1.java:24)     - 마늘
+2017-05-08 12:33:21, 765 DEBUG [main] hashmap.Day1      (    Day1.java:24)     - key 값이 3 데이터 : 마늘
+2017-05-08 12:35:02, 071 DEBUG [main] hashmap.Day1      (    Day1.java:18)     - 숫자를 입력하세요
+2017-05-08 12:35:02, 077 DEBUG [main] hashmap.Day1      (    Day1.java:29)     - key 값이 3 데이터 : 마늘
+2017-05-08 12:35:10, 557 DEBUG [main] beginning.Day1    (    Day1.java:28)     - 단을 입력하세요
+2017-05-08 12:35:25, 949 DEBUG [main] beginning.Day1    (    Day1.java:64)     - Error!!!
+2017-05-08 12:35:29, 613 DEBUG [main] beginning.Day1    (    Day1.java:28)     - 단을 입력하세요
+2017-05-08 12:38:25, 632 DEBUG [main] beginning.Day2    (    Day2.java:25)     - 알파벳을 입력하세요
+2017-05-08 12:38:28, 885 DEBUG [main] beginning.Day2    (    Day2.java:32)     - A
+2017-05-08 12:39:03, 614 DEBUG [main] hashmap.Day1      (    Day1.java:18)     - 숫자를 입력하세요
+2017-05-08 12:39:03, 619 DEBUG [main] hashmap.Day1      (    Day1.java:29)     - key 값이 3 데이터 : 마늘
+2017-05-08 12:39:19, 110 DEBUG [main] hashmap.Day1      (    Day1.java:18)     - 숫자를 입력하세요
+2017-05-08 12:39:50, 781 DEBUG [main] beginning.Day3    (    Day3.java:19)     - 공백으로 구분하여 두 정수를 입력 하시오
+2017-05-08 12:39:56, 349 DEBUG [main] beginning.Day3    (    Day3.java:35)     - 사각형 밖에 있습니다.
+2017-05-08 12:44:01, 679 DEBUG [main] hashmap.Day1      (    Day1.java:29)     - 숫자를 입력하세요
+2017-05-08 12:44:01, 684 DEBUG [main] hashmap.Day1      (    Day1.java:40)     - key 값이 3 데이터 : 마늘
+2017-05-08 12:50:23, 098 DEBUG [main] hashmap.Day1      (    Day1.java:63)     - key: 1 value: 감자
+2017-05-08 12:50:23, 103 DEBUG [main] hashmap.Day1      (    Day1.java:63)     - key: 2 value: 고구마
+2017-05-08 12:50:23, 104 DEBUG [main] hashmap.Day1      (    Day1.java:63)     - key: 3 value: 마늘
+2017-05-08 15:19:00, 105 DEBUG [main] hashmap.Day1      (    Day1.java:77)     - {1=감자, 2=고구마, 3=마늘}
+2017-05-08 15:19:00, 109 DEBUG [main] hashmap.Day1      (    Day1.java:79)     - {}
+2017-05-08 15:19:00, 110 DEBUG [main] hashmap.Day1      (    Day1.java:84)     - 비어있는키 체크 : true
+2017-05-08 15:28:46, 489 DEBUG [main] hashmap.Day1      (    Day1.java:40)     - -----------------------------------------------------------------------------
+2017-05-08 15:28:46, 493 DEBUG [main] hashmap.Day1      (    Day1.java:62)     - -----------------------------------------------------------------------------
+2017-05-08 15:28:46, 493 DEBUG [main] hashmap.Day1      (    Day1.java:86)     - -----------------------------------------------------------------------------
+2017-05-08 15:28:46, 494 DEBUG [main] hashmap.Day1      (    Day1.java:106)     - Key 삭제후 데이터 리턴받은 결과 : 마늘
+2017-05-08 15:28:46, 494 DEBUG [main] hashmap.Day1      (    Day1.java:110)     - -----------------------------------------------------------------------------
+2017-05-08 15:35:58, 839 DEBUG [main] hashmap.Day1      (    Day1.java:41)     - -----------------------------------------------------------------------------
+2017-05-08 15:35:58, 843 DEBUG [main] hashmap.Day1      (    Day1.java:63)     - -----------------------------------------------------------------------------
+2017-05-08 15:35:58, 843 DEBUG [main] hashmap.Day1      (    Day1.java:87)     - -----------------------------------------------------------------------------
+2017-05-08 15:35:58, 843 DEBUG [main] hashmap.Day1      (    Day1.java:112)     - -----------------------------------------------------------------------------
+2017-05-08 15:35:58, 844 DEBUG [main] hashmap.Day1      (    Day1.java:128)     - 정렬하지 않았을때 : {1=감자, 2=고구마, 3=마늘}
+2017-05-08 15:35:58, 845 DEBUG [main] hashmap.Day1      (    Day1.java:131)     - 정렬했을때 : {1=감자, 2=고구마, 3=마늘}
+2017-05-08 15:36:25, 688 DEBUG [main] hashmap.Day1      (    Day1.java:41)     - -----------------------------------------------------------------------------
+2017-05-08 15:36:25, 691 DEBUG [main] hashmap.Day1      (    Day1.java:63)     - -----------------------------------------------------------------------------
+2017-05-08 15:36:25, 691 DEBUG [main] hashmap.Day1      (    Day1.java:87)     - -----------------------------------------------------------------------------
+2017-05-08 15:36:25, 691 DEBUG [main] hashmap.Day1      (    Day1.java:112)     - -----------------------------------------------------------------------------
+2017-05-08 15:36:25, 692 DEBUG [main] hashmap.Day1      (    Day1.java:128)     - 정렬하지 않았을때 : {33=마늘, 21=고구마, 10=감자}
+2017-05-08 15:36:25, 693 DEBUG [main] hashmap.Day1      (    Day1.java:131)     - 정렬했을때 : {10=감자, 21=고구마, 33=마늘}
