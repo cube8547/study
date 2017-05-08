@@ -42,3 +42,18 @@
 2017-05-08 15:36:25, 691 DEBUG [main] hashmap.Day1      (    Day1.java:112)     - -----------------------------------------------------------------------------
 2017-05-08 15:36:25, 692 DEBUG [main] hashmap.Day1      (    Day1.java:128)     - 정렬하지 않았을때 : {33=마늘, 21=고구마, 10=감자}
 2017-05-08 15:36:25, 693 DEBUG [main] hashmap.Day1      (    Day1.java:131)     - 정렬했을때 : {10=감자, 21=고구마, 33=마늘}
+2017-05-08 16:42:35, 064 DEBUG [main] lotto.Lotto       (   Lotto.java:32)     - 로또번호 추출 수 입력
+2017-05-08 16:42:38, 839 DEBUG [main] lotto.Lotto       (   Lotto.java:36)     - 1번째 로또번호 [3, 4, 9, 10, 29, 37]
+2017-05-08 16:42:38, 839 DEBUG [main] lotto.Lotto       (   Lotto.java:36)     - 2번째 로또번호 [13, 24, 28, 34, 38, 43]
+2017-05-08 16:42:38, 839 DEBUG [main] lotto.Lotto       (   Lotto.java:36)     - 3번째 로또번호 [19, 23, 27, 32, 33, 42]
+2017-05-08 16:42:38, 840 DEBUG [main] lotto.Lotto       (   Lotto.java:36)     - 4번째 로또번호 [5, 9, 10, 41, 43, 44]
+2017-05-08 16:52:09, 095 DEBUG [main] lotto.Lotto2      (  Lotto2.java:29)     - 로또 번호 추출 수 입력
+2017-05-08 16:52:11, 501 DEBUG [main] lotto.Lotto2      (  Lotto2.java:33)     - 1번째 로또번호 : [7, 11, 24, 26, 27, 28]
+2017-05-08 16:52:11, 502 DEBUG [main] lotto.Lotto2      (  Lotto2.java:33)     - 2번째 로또번호 : [2, 27, 34, 36, 44, 45]
+2017-05-08 16:52:11, 502 DEBUG [main] lotto.Lotto2      (  Lotto2.java:33)     - 3번째 로또번호 : [4, 15, 16, 19, 20, 25]
+2017-05-08 18:03:50, 374 DEBUG [main] lotto.Lotto2      (  Lotto3.java:33)     - 로또번호 추출 수 입력
+2017-05-08 18:03:53, 084 DEBUG [main] lotto.Lotto2      (  Lotto3.java:38)     - 1번째 로또 번호 : [5, 10, 19, 20, 24, 28]
+2017-05-08 18:03:53, 085 DEBUG [main] lotto.Lotto2      (  Lotto3.java:38)     - 2번째 로또 번호 : [9, 13, 19, 26, 33, 40]
+2017-05-08 18:03:53, 085 DEBUG [main] lotto.Lotto2      (  Lotto3.java:38)     - 3번째 로또 번호 : [2, 5, 28, 34, 35, 41]
+2017-05-08 18:03:53, 085 DEBUG [main] lotto.Lotto2      (  Lotto3.java:38)     - 4번째 로또 번호 : [11, 15, 21, 26, 28, 29]
+2017-05-08 18:03:53, 085 DEBUG [main] lotto.Lotto2      (  Lotto3.java:38)     - 5번째 로또 번호 : [1, 5, 12, 30, 33, 45]
