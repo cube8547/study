@@ -16,6 +16,7 @@ for 문을 이용해서 List 객체에 번호들을 모두 추가합니다.
 	public static void main(String[] args) {
 		
 		
+		
 
 	}
 
