@@ -31,6 +31,7 @@ public class List {
 
 		*/
 		
+		
 /*		
 		ArrayList listA = new ArrayList();
 		LinkedList listB = new LinkedList();
