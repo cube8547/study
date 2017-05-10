@@ -1,59 +1,37 @@
-2017-05-08 09:59:54, 166 DEBUG [main] json.JsonTest_01  (JsonTest_01.java:32)     - value2
-2017-05-08 10:00:22, 300 DEBUG [main] json.JsonTest_01  (JsonTest_01.java:32)     - value1
-2017-05-08 10:00:23, 632 DEBUG [main] json.JsonTest_01  (JsonTest_01.java:32)     - value1
-2017-05-08 10:00:33, 740 DEBUG [main] json.JsonTest_01  (JsonTest_01.java:32)     - value2
-2017-05-08 11:44:07, 267 DEBUG [main] hashmap.Day1      (    Day1.java:21)     - {1=감자, 2=고구마, 3=마늘}
-2017-05-08 11:45:40, 000 DEBUG [main] hashmap.Day1      (    Day1.java:24)     - 마늘
-2017-05-08 12:33:21, 765 DEBUG [main] hashmap.Day1      (    Day1.java:24)     - key 값이 3 데이터 : 마늘
-2017-05-08 12:35:02, 071 DEBUG [main] hashmap.Day1      (    Day1.java:18)     - 숫자를 입력하세요
-2017-05-08 12:35:02, 077 DEBUG [main] hashmap.Day1      (    Day1.java:29)     - key 값이 3 데이터 : 마늘
-2017-05-08 12:35:10, 557 DEBUG [main] beginning.Day1    (    Day1.java:28)     - 단을 입력하세요
-2017-05-08 12:35:25, 949 DEBUG [main] beginning.Day1    (    Day1.java:64)     - Error!!!
-2017-05-08 12:35:29, 613 DEBUG [main] beginning.Day1    (    Day1.java:28)     - 단을 입력하세요
-2017-05-08 12:38:25, 632 DEBUG [main] beginning.Day2    (    Day2.java:25)     - 알파벳을 입력하세요
-2017-05-08 12:38:28, 885 DEBUG [main] beginning.Day2    (    Day2.java:32)     - A
-2017-05-08 12:39:03, 614 DEBUG [main] hashmap.Day1      (    Day1.java:18)     - 숫자를 입력하세요
-2017-05-08 12:39:03, 619 DEBUG [main] hashmap.Day1      (    Day1.java:29)     - key 값이 3 데이터 : 마늘
-2017-05-08 12:39:19, 110 DEBUG [main] hashmap.Day1      (    Day1.java:18)     - 숫자를 입력하세요
-2017-05-08 12:39:50, 781 DEBUG [main] beginning.Day3    (    Day3.java:19)     - 공백으로 구분하여 두 정수를 입력 하시오
-2017-05-08 12:39:56, 349 DEBUG [main] beginning.Day3    (    Day3.java:35)     - 사각형 밖에 있습니다.
-2017-05-08 12:44:01, 679 DEBUG [main] hashmap.Day1      (    Day1.java:29)     - 숫자를 입력하세요
-2017-05-08 12:44:01, 684 DEBUG [main] hashmap.Day1      (    Day1.java:40)     - key 값이 3 데이터 : 마늘
-2017-05-08 12:50:23, 098 DEBUG [main] hashmap.Day1      (    Day1.java:63)     - key: 1 value: 감자
-2017-05-08 12:50:23, 103 DEBUG [main] hashmap.Day1      (    Day1.java:63)     - key: 2 value: 고구마
-2017-05-08 12:50:23, 104 DEBUG [main] hashmap.Day1      (    Day1.java:63)     - key: 3 value: 마늘
-2017-05-08 15:19:00, 105 DEBUG [main] hashmap.Day1      (    Day1.java:77)     - {1=감자, 2=고구마, 3=마늘}
-2017-05-08 15:19:00, 109 DEBUG [main] hashmap.Day1      (    Day1.java:79)     - {}
-2017-05-08 15:19:00, 110 DEBUG [main] hashmap.Day1      (    Day1.java:84)     - 비어있는키 체크 : true
-2017-05-08 15:28:46, 489 DEBUG [main] hashmap.Day1      (    Day1.java:40)     - -----------------------------------------------------------------------------
-2017-05-08 15:28:46, 493 DEBUG [main] hashmap.Day1      (    Day1.java:62)     - -----------------------------------------------------------------------------
-2017-05-08 15:28:46, 493 DEBUG [main] hashmap.Day1      (    Day1.java:86)     - -----------------------------------------------------------------------------
-2017-05-08 15:28:46, 494 DEBUG [main] hashmap.Day1      (    Day1.java:106)     - Key 삭제후 데이터 리턴받은 결과 : 마늘
-2017-05-08 15:28:46, 494 DEBUG [main] hashmap.Day1      (    Day1.java:110)     - -----------------------------------------------------------------------------
-2017-05-08 15:35:58, 839 DEBUG [main] hashmap.Day1      (    Day1.java:41)     - -----------------------------------------------------------------------------
-2017-05-08 15:35:58, 843 DEBUG [main] hashmap.Day1      (    Day1.java:63)     - -----------------------------------------------------------------------------
-2017-05-08 15:35:58, 843 DEBUG [main] hashmap.Day1      (    Day1.java:87)     - -----------------------------------------------------------------------------
-2017-05-08 15:35:58, 843 DEBUG [main] hashmap.Day1      (    Day1.java:112)     - -----------------------------------------------------------------------------
-2017-05-08 15:35:58, 844 DEBUG [main] hashmap.Day1      (    Day1.java:128)     - 정렬하지 않았을때 : {1=감자, 2=고구마, 3=마늘}
-2017-05-08 15:35:58, 845 DEBUG [main] hashmap.Day1      (    Day1.java:131)     - 정렬했을때 : {1=감자, 2=고구마, 3=마늘}
-2017-05-08 15:36:25, 688 DEBUG [main] hashmap.Day1      (    Day1.java:41)     - -----------------------------------------------------------------------------
-2017-05-08 15:36:25, 691 DEBUG [main] hashmap.Day1      (    Day1.java:63)     - -----------------------------------------------------------------------------
-2017-05-08 15:36:25, 691 DEBUG [main] hashmap.Day1      (    Day1.java:87)     - -----------------------------------------------------------------------------
-2017-05-08 15:36:25, 691 DEBUG [main] hashmap.Day1      (    Day1.java:112)     - -----------------------------------------------------------------------------
-2017-05-08 15:36:25, 692 DEBUG [main] hashmap.Day1      (    Day1.java:128)     - 정렬하지 않았을때 : {33=마늘, 21=고구마, 10=감자}
-2017-05-08 15:36:25, 693 DEBUG [main] hashmap.Day1      (    Day1.java:131)     - 정렬했을때 : {10=감자, 21=고구마, 33=마늘}
-2017-05-08 16:42:35, 064 DEBUG [main] lotto.Lotto       (   Lotto.java:32)     - 로또번호 추출 수 입력
-2017-05-08 16:42:38, 839 DEBUG [main] lotto.Lotto       (   Lotto.java:36)     - 1번째 로또번호 [3, 4, 9, 10, 29, 37]
-2017-05-08 16:42:38, 839 DEBUG [main] lotto.Lotto       (   Lotto.java:36)     - 2번째 로또번호 [13, 24, 28, 34, 38, 43]
-2017-05-08 16:42:38, 839 DEBUG [main] lotto.Lotto       (   Lotto.java:36)     - 3번째 로또번호 [19, 23, 27, 32, 33, 42]
-2017-05-08 16:42:38, 840 DEBUG [main] lotto.Lotto       (   Lotto.java:36)     - 4번째 로또번호 [5, 9, 10, 41, 43, 44]
-2017-05-08 16:52:09, 095 DEBUG [main] lotto.Lotto2      (  Lotto2.java:29)     - 로또 번호 추출 수 입력
-2017-05-08 16:52:11, 501 DEBUG [main] lotto.Lotto2      (  Lotto2.java:33)     - 1번째 로또번호 : [7, 11, 24, 26, 27, 28]
-2017-05-08 16:52:11, 502 DEBUG [main] lotto.Lotto2      (  Lotto2.java:33)     - 2번째 로또번호 : [2, 27, 34, 36, 44, 45]
-2017-05-08 16:52:11, 502 DEBUG [main] lotto.Lotto2      (  Lotto2.java:33)     - 3번째 로또번호 : [4, 15, 16, 19, 20, 25]
-2017-05-08 18:03:50, 374 DEBUG [main] lotto.Lotto2      (  Lotto3.java:33)     - 로또번호 추출 수 입력
-2017-05-08 18:03:53, 084 DEBUG [main] lotto.Lotto2      (  Lotto3.java:38)     - 1번째 로또 번호 : [5, 10, 19, 20, 24, 28]
-2017-05-08 18:03:53, 085 DEBUG [main] lotto.Lotto2      (  Lotto3.java:38)     - 2번째 로또 번호 : [9, 13, 19, 26, 33, 40]
-2017-05-08 18:03:53, 085 DEBUG [main] lotto.Lotto2      (  Lotto3.java:38)     - 3번째 로또 번호 : [2, 5, 28, 34, 35, 41]
-2017-05-08 18:03:53, 085 DEBUG [main] lotto.Lotto2      (  Lotto3.java:38)     - 4번째 로또 번호 : [11, 15, 21, 26, 28, 29]
-2017-05-08 18:03:53, 085 DEBUG [main] lotto.Lotto2      (  Lotto3.java:38)     - 5번째 로또 번호 : [1, 5, 12, 30, 33, 45]
+2017-05-10 15:25:40, 387 DEBUG [main] arraylist.List    (    List.java:45)     - ---------------------------------------------------
+2017-05-10 15:25:40, 393 DEBUG [main] arraylist.List    (    List.java:84)     - 홍길동
+2017-05-10 15:25:40, 393 DEBUG [main] arraylist.List    (    List.java:87)     - 김삿갓
+2017-05-10 15:25:40, 393 DEBUG [main] arraylist.List    (    List.java:88)     - true
+2017-05-10 15:25:40, 394 DEBUG [main] arraylist.List    (    List.java:94)     - ---------------------------------------------------
+2017-05-10 15:26:58, 135 DEBUG [main] arraylist.List    (    List.java:45)     - ---------------------------------------------------
+2017-05-10 15:26:58, 139 DEBUG [main] arraylist.List    (    List.java:84)     - 홍길동
+2017-05-10 15:26:58, 142 DEBUG [main] arraylist.List    (    List.java:87)     - 김삿갓
+2017-05-10 15:26:58, 143 DEBUG [main] arraylist.List    (    List.java:88)     - true
+2017-05-10 15:26:58, 143 DEBUG [main] arraylist.List    (    List.java:94)     - ---------------------------------------------------
+2017-05-10 15:27:58, 985 DEBUG [main] arraylist.List    (    List.java:45)     - ---------------------------------------------------
+2017-05-10 15:27:58, 992 DEBUG [main] arraylist.List    (    List.java:84)     - 홍길동
+2017-05-10 15:27:58, 993 DEBUG [main] arraylist.List    (    List.java:94)     - ---------------------------------------------------
+2017-05-10 15:28:18, 122 DEBUG [main] arraylist.List    (    List.java:45)     - ---------------------------------------------------
+2017-05-10 15:28:18, 125 DEBUG [main] arraylist.List    (    List.java:84)     - 홍길동
+2017-05-10 15:28:18, 125 DEBUG [main] arraylist.List    (    List.java:87)     - 김삿갓
+2017-05-10 15:28:18, 125 DEBUG [main] arraylist.List    (    List.java:88)     - true
+2017-05-10 15:28:18, 126 DEBUG [main] arraylist.List    (    List.java:94)     - ---------------------------------------------------
+2017-05-10 15:45:18, 298 DEBUG [main] arraylist.List    (    List.java:45)     - ---------------------------------------------------
+2017-05-10 15:45:18, 301 DEBUG [main] arraylist.List    (    List.java:64)     - ---------------------------------------------------
+2017-05-10 15:45:18, 301 DEBUG [main] arraylist.List    (    List.java:88)     - ---------------------------------------------------
+2017-05-10 15:45:18, 302 DEBUG [main] arraylist.List    (    List.java:98)     - ---------------------------------------------------
+2017-05-10 15:45:18, 302 DEBUG [main] arraylist.List    (    List.java:104)     - true
+2017-05-10 15:45:18, 302 DEBUG [main] arraylist.List    (    List.java:106)     - ---------------------------------------------------
+2017-05-10 15:45:18, 302 DEBUG [main] arraylist.List    (    List.java:118)     - 김삿갓
+2017-05-10 15:45:18, 302 DEBUG [main] arraylist.List    (    List.java:119)     - true
+2017-05-10 15:45:18, 304 DEBUG [main] arraylist.List    (    List.java:125)     - ---------------------------------------------------
+2017-05-10 15:45:49, 566 DEBUG [main] arraylist.List    (    List.java:45)     - ---------------------------------------------------
+2017-05-10 15:45:49, 569 DEBUG [main] arraylist.List    (    List.java:64)     - [김삿갓, 1번째 요소값, 홍아리, 홍길동]
+2017-05-10 15:45:49, 570 DEBUG [main] arraylist.List    (    List.java:65)     - ---------------------------------------------------
+2017-05-10 15:45:49, 570 DEBUG [main] arraylist.List    (    List.java:89)     - ---------------------------------------------------
+2017-05-10 15:45:49, 570 DEBUG [main] arraylist.List    (    List.java:99)     - ---------------------------------------------------
+2017-05-10 15:45:49, 571 DEBUG [main] arraylist.List    (    List.java:105)     - true
+2017-05-10 15:45:49, 571 DEBUG [main] arraylist.List    (    List.java:107)     - ---------------------------------------------------
+2017-05-10 15:45:49, 571 DEBUG [main] arraylist.List    (    List.java:119)     - 김삿갓
+2017-05-10 15:45:49, 572 DEBUG [main] arraylist.List    (    List.java:120)     - true
+2017-05-10 15:45:49, 573 DEBUG [main] arraylist.List    (    List.java:126)     - ---------------------------------------------------

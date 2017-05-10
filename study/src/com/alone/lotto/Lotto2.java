@@ -24,7 +24,7 @@ public class Lotto2 {
 	public static void main(String[] args) {
 		PropertyConfigurator.configure("properties/log4j.properties");//메인 메소드 아래 사용	
 		
-		Lotto lotto = new Lotto();
+		Lotto2 lotto = new Lotto2();
 		
 		Scanner sc = new Scanner(System.in);
 		
@@ -33,8 +33,7 @@ public class Lotto2 {
 		
 		for(int i = 1; i <= gameCnt; i++) {
 			logger.debug(i + "번째 로또번호 : " + lotto.lottoNumbers());
-		}
-	}
+		}	}
 	
 	String lottoNumbers() {
 		

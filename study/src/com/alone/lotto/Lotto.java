@@ -39,10 +39,10 @@ for 문을 이용해서 List 객체에 번호들을 모두 추가합니다.
 
 	}
 	
+	//List안에 로또 번호 추가
+	
 	String lottoNumbers() {
-		List<Integer> lottoNum = new ArrayList<Integer>();
-		
-		//List안에 로또 번호 추가
+		List<Integer> lottoNum = new ArrayList<Integer>();	
 
 	for(int i = 1; i <= 45; i++){
 		lottoNum.add(i);
@@ -51,6 +51,8 @@ for 문을 이용해서 List 객체에 번호들을 모두 추가합니다.
 	//set안의 수를 무작위로 섞는다
 	Collections.shuffle(lottoNum);
 	
+	//lottoNum의 i를 get으로 뽑아서 lottoNums의 i값에 적용
+	//6개의 공간을 만들고 만들어진 숫자를 넣는다 
 	int[] lottoNums = new int[6];
 	for(int i = 0; i < 6; i++){
 		lottoNums[i] = lottoNum.get(i);
