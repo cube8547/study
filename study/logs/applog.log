@@ -656,3 +656,10 @@
 2017-05-10 17:02:53, 587 DEBUG [main] beginning.WordTime (WordTime.java:41)     - %s%n%s%n%n
 2017-05-10 17:02:53, 591 DEBUG [main] beginning.WordTime (WordTime.java:45)     - %s%n%s%n%n
 2017-05-10 17:02:53, 595 DEBUG [main] beginning.WordTime (WordTime.java:49)     - %s%n%s%n%n
+2017-05-10 19:14:52, 194 DEBUG [main] beginning.WorldTime (   Fruit.java:46)     - name : null
+2017-05-10 19:14:52, 197 DEBUG [main] beginning.WorldTime (   Fruit.java:47)     - color : null
+2017-05-10 19:14:52, 200 DEBUG [main] beginning.WorldTime (   Fruit.java:48)     - weight : 0.0
+2017-05-10 19:16:30, 382 DEBUG [main] beginning.WorldTime (   Fruit.java:53)     - name : banana
+2017-05-10 19:16:30, 386 DEBUG [main] beginning.WorldTime (   Fruit.java:54)     - color : yellow
+2017-05-10 19:16:30, 387 DEBUG [main] beginning.WorldTime (   Fruit.java:55)     - weight : 5.0
+2017-05-10 19:16:30, 387 DEBUG [main] beginning.WorldTime (   Fruit.java:57)     - ------------------------------------------------
