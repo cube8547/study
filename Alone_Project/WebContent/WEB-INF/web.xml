@@ -20,3 +20,17 @@
     <url-pattern>/LoginValue</url-pattern>
   </servlet-mapping>
 </web-app>
+
+<!-- 
+¤ JSP 파일과 서블릿 소스 매핑하기
+ 
+▼ JSP 와 서블릿 클래스를 맵핑하기 위해서는 맵핑 XML 이 필요합니다. 
+그냥 보낸다고 자동으로 받아지는 것이 아니죠. URL 에 입력한 값에 해당하는 클래스를 실행하기 위해 web.xml 을 만들었습니다.
+<Servlet-mapping> 에 있는 <url-pattern> 은 URL 도메인 주소 뒤에 입력되는 값입니다. 
+그러니까 http://mainia.tistory.com/login 이 되겠죠. 이렇게 호출하게 되면 그와 서블릿 이름이 같은 <Servlet> 태그를 찾게 됩니다. 
+<Servlet> 의 실행 클래스 주소가 있는 <servlet-class> 찾아 맵핑시켜 줍니다. <servlet-class> 에 값은 패키지 주소를 입력하시면 됩니다. 
+이렇게 호출 URL 하나당 클래스 하나씩 연결하실려면 <servlet> 과 <servlet-mapping> 을 쌍으로 만들어 주시면 됩니다.
+
+
+
+ -->
