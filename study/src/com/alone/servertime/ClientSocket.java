@@ -17,9 +17,6 @@ import java.net.UnknownHostException;
 Socket 객체를 만들 때 서버에 접속해야 하므로 IP 와 포트정보를 넘깁니다. 
 이때 서버에서는 accpet() 함수가 동작하게 되는 것이죠. getInputStream() 을 이용해서 스트림을 가져온후 데이터를 읽어 들이면 됩니다.
 
-
-
-
 */
 public class ClientSocket {
 	

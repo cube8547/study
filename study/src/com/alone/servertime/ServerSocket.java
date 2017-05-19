@@ -11,8 +11,6 @@ import java.util.Date;
 서버와 클라이언트 네트워크 프로그램을 구현해 보겠습니다. 
 서버는 ServerSocket 클래스를 이용하며 서버에서 정보를 가져오는 클라이언트는 Socket 을 사용하게 됩니다. 
 아래 샘플은 서버에서 클라이언트의 접속을 기다리고 있다가 시간을 알려주는 기능을 합니다. 
- 
-
 */
 
 public class ServerSocket {
