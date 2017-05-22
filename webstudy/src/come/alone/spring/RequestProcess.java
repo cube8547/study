@@ -1,21 +1,21 @@
 package come.alone.spring;
 
-public class SpringRequest {
+import org.springframework.stereotype.Controller;
+import org.springframework.ui.Model;
+import org.springframework.web.bind.annotation.RequestMapping;
+import org.springframework.web.bind.annotation.RequestParam;
+import org.springframework.web.servlet.ModelAndView;
 
-	import org.springframework.stereotype.Controller;
-	import org.springframework.ui.Model;
-	import org.springframework.web.bind.annotation.RequestMapping;
-	import org.springframework.web.bind.annotation.RequestParam;
-	import org.springframework.web.servlet.ModelAndView;
+@Controller
+@RequestMapping("request")
+public class RequestProcess {
+
 
 	 
 
 	// 클래스에 @RequestMapping 어노테이션을 쓰면 상위 URL 이 추가된다.
 
 	// http://localhost:8080/hellospring3/request/... 형태로 접근해야 한다.
-	@Controller
-	@RequestMapping("request")
-	public class RequestProcess {
 
 
 	// return void 이면 request 와 같은 경로의 view 를 자동으로 찾는다.
@@ -31,7 +31,7 @@ public class SpringRequest {
 	// http://localhost:8080/hellospring3/request/request2.do 로 접근
 	 @RequestMapping("request2")
 	 public String request2() {
-	  return "request/request";
+	  return "/WEB-INF/jsp/request/request2.jsp";
 	 }
 	 
 	 
