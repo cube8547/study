@@ -4,7 +4,7 @@
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<mata name="viewport" content="width=device-width", initial-scale="1">
+<meta name="viewport" content="width=device-width", initial-scale="1">
 <link rel="stylesheet" href="css/bootstrap.css">
 <title>JSP 게시판 웹 사이트</title>
 </head>
@@ -14,7 +14,7 @@
 		<div class="navbar-header">
 			<button type="button" class="navbar-toggle collapsed"
 				data-toggle="collapse" data-target="#bs-example-navbar-collapse-1"
-				aria-expandel="false">
+				aria-expanded="false">
 				<span class="icon-bar"></span>
 				<span class="icon-bar"></span>
 				<span class="icon-bar"></span>			
@@ -30,7 +30,7 @@
 					<li class="dropdown">
 						<a href="#" class="dropdown-toggle" 
 							data-toggle="dropdown" role="button" aria-haspopup="true"
-							aria-expanded="false"]>접속하기<span class="caret"></span></a>
+							aria-expanded="false">접속하기<span class="caret"></span></a>
 						<ul class="dropdown-menu">
 							<li class="active"><a href="login.jsp">로그인</a></li>
 							<li><a href="join.jsp">회원가입</a></li>						
