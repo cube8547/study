@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd">
+
+	<!--id : 변수 설정, class : 객체 생성, property : 필드 설정  
+	     calculator는 아래 myCalculator에서 사용   -->
+	<bean id="calculator" class="com.javalec.ex.Calculator" /> 
+	
+	<bean id="myCalculator" class="com.javalec.ex.MyCalculator">
+		<property name="calculator">
+			<ref bean="calculator"/>
+		</property>
+		<property name="firstNum" value="10"/>
+		<property name="secondNum" value="2"/>
+	</bean>
+</beans>
+<!-- Calculator.java 와  MyCalculator.java를 가져와서 Main.java로 보낸다 -->
